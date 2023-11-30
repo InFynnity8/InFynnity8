@@ -1,6 +1,5 @@
 - 👋 Hi, I’m cybergHost
 - 👀 I’m interested in Software engineering, Cyber Sequrity and backend developing.
-- 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m looking to collaborate on Open Source Projects, Hackathons and Freelance or Contract Work.
 - 📫 How to reach me (sackeyemmanueyfynn@gmail.com)
 
