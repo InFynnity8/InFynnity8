@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fynn
+- 👋 Hi, I’m Fynn-Sackey Emmanuel.
 - 👀 I’m a Software Engineer.
 - 💞️ I’m looking to collaborate on Open Source Projects, Hackathons, and Freelance or Contract Work.
 - 📫 How to reach me (sackeyemmanueyfynn@gmail.com)
