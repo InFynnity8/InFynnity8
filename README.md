@@ -9,7 +9,7 @@ I focus on clean architecture, strong UI/UX, and production-ready systems.
 ## Tech Stack
 **Languages:** TypeScript, JavaScript, Python, Java, SQL  
 **Frontend:** React, Next.js, Angular, Tailwind, Shadcn  
-**Backend:** Node.js, Express, REST APIs, WebSockets  
+**Backend:** Node.js, Express, Nestjs, REST APIs, WebSockets  
 **Mobile:** React Native (Expo)  
 **Desktop:** Electron.js  
 **Databases:** MongoDB, Firebase, PostgreSQL  
@@ -18,7 +18,7 @@ I focus on clean architecture, strong UI/UX, and production-ready systems.
 
 ---
 
-## Selected Projects
+## Projects
 
 ### eLearn Desktop App  
 **Electron + React + TypeScript**  
